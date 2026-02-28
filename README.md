@@ -33,7 +33,7 @@
 
 ## 📸 Скриншоты
 
-![Screenshot](https://photo2txt.com/screenshot.png)
+![Screenshot]([https://photo2txt.com/screenshot.png](https://photo2txt.com/photo2txt-extract-text-from-image-example.JPG))
 
 ---
 
